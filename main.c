@@ -6,6 +6,7 @@
 #include<sys/wait.h>
 #include<readline/readline.h>
 #include<readline/history.h>
+#include<sys/readline.h>
 
 //TO-DO: 1. Make this windows-based, get rid of POSIX functions
 //       2. Add mkdir, rm functionality.
